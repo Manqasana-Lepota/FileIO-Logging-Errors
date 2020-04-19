@@ -9,12 +9,6 @@ public class VisitorTest {
 
     public void saveVisitorTest() {
 
-        String expected = "Successfully saved !!";
-        String results = Visitor.save("Successfully saved !!");
-
-        Assert.assertEquals(expected,results);
-
-
     }
 
     public void loadVisitorTest() {

@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="VisitorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-20T10:53:28" hostname="umuzi-admin" time="0.643">
+<testsuite name="VisitorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-19T19:11:17" hostname="umuzi-admin" time="0.001">
   <properties/>
-  <testcase name="saveVisitorTest" classname="VisitorTest" time="0.643"/>
-  <system-out><![CDATA[2020-03-20 12:53:29,552 | Visitor: The file already exists
-
-Writing on a File........
-
-2020-03-20 12:53:29,558 | Visitor: Successfully saved !!
-]]></system-out>
+  <testcase name="saveVisitorTest" classname="VisitorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
